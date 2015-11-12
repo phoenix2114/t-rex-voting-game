@@ -1,10 +1,15 @@
 # t-rex-voting-game
 
-This is the command that I used to connect to our database:
+git clone https://github.com/ShikhaBhattarai/t-rex-voting-game.git
 
-mysql -h mysql-instance1.cczvbj12qf0c.us-west-2.rds.amazonaws.com -P 3306 -u csc456 -p
+Add Changes
+-------------------------------------
+git status
 
-The table is called:
-the_voting_game
+git add filename
 
-Database password:  fall2015
+git commit -m "Your_Commit_Message"
+
+git push origin master or git push
+
+

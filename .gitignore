@@ -1,0 +1,14 @@
+
+*.iml
+
+*.MF
+
+*.xml
+
+*.bin
+
+*.lock
+
+.idea/.name
+
+*.jar
